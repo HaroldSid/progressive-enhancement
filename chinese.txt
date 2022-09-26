@@ -1,4 +1,4 @@
-<h1> The Story of the Chinese Farmer </h1>
+The Story of the Chinese Farmer
 
 Is it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius
@@ -64,3 +64,4 @@ Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys
 
 ----
 Copyright Just Another Company 2017. All right reserved. Adapted from this article: https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/
+   
