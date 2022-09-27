@@ -1,0 +1,72 @@
+.farmer
+{
+    border-color: rgb(55, 27, 197)
+}
+.villagers
+{
+    border-color: rgb(178, 34, 132)
+}
+a:link
+{
+    color: red;
+    font-size: 15px;
+    text-decoration-line: underline; 
+}
+
+a:visited
+{
+    color: rebeccapurple;
+    font-size: 15px; 
+    text-decoration-line: underline;
+}
+
+a:hover
+{
+    color: rgb(0, 255, 13);
+    font-size: 15px;
+    text-decoration-line: underline; 
+}
+
+blockquote
+{
+    background-color: lightslategray;
+    border-color: firebrick;
+    border-left-style: solid;
+    border-left-width: 3px;
+    font-size: 1.6em;
+    margin: auto;
+    margin-bottom: 65px;
+    margin-top: 65px;
+    padding: 15px 0px 15px 30px;
+    width: 50%;
+}
+
+body
+{
+    background-color:rgb(84, 214, 201);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhiekau1zDiXYEVIF41Ai3B3tKL4goYs01WlGtWgChkg&s");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 90%;
+}
+
+p
+{
+    color: darkslategrey;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;    
+    word-spacing: 2px;
+}
+
+q
+{
+    border-color: firebrick;
+    border-left-style: solid;
+    border-left-width: 3px;
+    font-size: 1em;
+    margin: auto;   
+    width: 50%;
+}
+
