@@ -41,6 +41,17 @@ blockquote
     width: 50%;
 }
 
+img.bad
+{
+    background-image: url("https://github.com/becodeorg/BXL-Johnson-09/raw/main/1.The-Field/03-Front-end-101/mal.png");
+    padding-right: 10px;
+}
+
+thead > tr
+{
+    background-color: red;
+}
+
 body
 {
     background-color:rgb(84, 214, 201);
